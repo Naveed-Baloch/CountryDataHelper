@@ -207,6 +207,7 @@ class CountryDataHelper {
                 Country("Western Sahara", "EH", "+212"),
                 Country("Yemen", "YE", "+967"),
                 Country("Zambia", "ZM", "+260"),
+                Country("Zimbabwe", "ZW", "+263"),
                 Country("Zimbabwe", "ZW", "+263")
             )
         }
